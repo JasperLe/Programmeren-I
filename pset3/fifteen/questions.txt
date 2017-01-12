@@ -1,0 +1,9 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. The framework allows dimensions from, including, 3*3 up to including 9*9. As defined by DIM_MIN & DIM_MAX.
+1. The board is represented by a two_dimensional array data structure.
+2. The function that is called at the start of the game is greet()
+3. The functions that need to be implemented are the init(), draw(), move(), and won() functions.
